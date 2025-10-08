@@ -1,0 +1,15 @@
+# Root
+.env
+node_modules
+dist
+
+# Frontend
+tech-pulse-blog/node_modules
+tech-pulse-blog/dist
+tech-pulse-blog/.env
+
+# Backend
+api-rest-node/node_modules
+api-rest-node/.env
+api-rest-node/src/images
+api-rest-node/uploads

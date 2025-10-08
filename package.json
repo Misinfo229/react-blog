@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm:dev:client\" \"npm:dev:server\"",
+    "dev:client": "npm --prefix tech-pulse-blog run dev",
+    "dev:server": "npm --prefix api-rest-node run start",
+    "build": "npm --prefix tech-pulse-blog run build",
+    "start": "npm --prefix api-rest-node run start"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  }
+}
