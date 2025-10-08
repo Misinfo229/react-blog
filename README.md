@@ -115,7 +115,7 @@ Guarda este `package.json` en la **raíz**:
 ---
 
 ## 🧩 Tecnologías
-**Frontend:** React 18, Vite, React Router, DOMPurify, Marked, SweetAlert2  
+**Frontend:** Frontend: React 18, Vite, React Router, Sass (SCSS), DOMPurify, Marked, SweetAlert2 
 **Backend:** Node.js, Express, MongoDB/Mongoose, Multer, Validator, CORS, Nodemon
 
 ---
@@ -255,7 +255,7 @@ Place this `package.json` at the **root**:
 ---
 
 ## Tech Stack
-**Frontend:** React 18, Vite, React Router, DOMPurify, Marked, SweetAlert2  
+**Frontend:** Frontend: React 18, Vite, React Router, Sass (SCSS), DOMPurify, Marked, SweetAlert2 
 **Backend:** Node.js, Express, MongoDB/Mongoose, Multer, Validator, CORS, Nodemon
 
 ---
